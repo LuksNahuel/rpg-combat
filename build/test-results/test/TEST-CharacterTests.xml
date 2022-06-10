@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CharacterTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-06-10T20:49:13" hostname="DESKTOP-S2GTR00" time="0.065">
+  <properties/>
+  <testcase name="attacking a character deals damage to its health()" classname="CharacterTests" time="0.054"/>
+  <testcase name="a dead character cannot be healed()" classname="CharacterTests" time="0.003"/>
+  <testcase name="healing a character raises its health()" classname="CharacterTests" time="0.001"/>
+  <testcase name="spawns with health at 1000()" classname="CharacterTests" time="0.001"/>
+  <testcase name="at spawn is alive()" classname="CharacterTests" time="0.001"/>
+  <testcase name="spawns at level 1()" classname="CharacterTests" time="0.001"/>
+  <testcase name="dealing more damage than its current health to a character makes it die()" classname="CharacterTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
